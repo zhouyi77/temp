@@ -9,4 +9,6 @@ def test_zero_division_long():
     # 断言异常 value 值
     assert "zero" in str(excinfo.value)
 
+print('chongtu')
+
 
