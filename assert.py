@@ -14,4 +14,6 @@ class TestCase:
     def test_01(self):
         print("test")
 
+print('chongtu')
+
 
